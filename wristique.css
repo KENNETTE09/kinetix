@@ -1,0 +1,77 @@
+{
+  "type": "selection",
+  "guid": "3084dfb4",
+  "source": "a17d53dbd",
+  "data": {
+    "nodes": [
+      {
+        "id": "35c432c1",
+        "x": 632,
+        "y": 313,
+        "width": 446,
+        "height": 1523,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 632 313)",
+        "inspectables": {
+          "asset_id": "",
+          "is_clipboard_paste": false,
+          "is_in_library": false,
+          "width_policy": "fixed",
+          "height_policy": "fixed",
+          "background_color": "transparent",
+          "stroke_color": "rgb(170,170,170)",
+          "stroke_width": 0,
+          "stroke_style": "solid",
+          "corner_radius_tl": 0,
+          "corner_radius_tr": 0,
+          "corner_radius_br": 0,
+          "corner_radius_bl": 0,
+          "corner_radius_lock": true,
+          "corner_radius_scale": false,
+          "opacity": 100,
+          "aspect_lock": true,
+          "crop_scale_x": 0.2803676953381484,
+          "crop_scale_y": 7.464664328405517e-17,
+          "crop_scale_width": 0.4392646093237032,
+          "crop_scale_height": 0.9999999999999999,
+          "crop_scale_zoom": 1,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 25,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 4,
+          "fe_dropshadow_size": 4,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "",
+        "data": {
+          "original_href": ""
+        },
+        "name": "image",
+        "url": "repo/oEERXxWh93g7bcjjqYfiG56LPGDDrLqZ/p_7bVl5hRK4bMP0BRPGAYdGPdQxJOGVrWf/7GQPIEwPhdNHIs9baonSOguhG5vCXQmM.jpg",
+        "deps": {},
+        "signedURL": "https://images.moqups.com/repo/oEERXxWh93g7bcjjqYfiG56LPGDDrLqZ/p_7bVl5hRK4bMP0BRPGAYdGPdQxJOGVrWf/7GQPIEwPhdNHIs9baonSOguhG5vCXQmM.jpg?Expires=1712555073&Key-Pair-Id=K1TPUF1X6HKIYU&Signature=K2sSyxff~HPskZ63rfHhNVE-fx6esNO8DxUgBfPgfK3959qw2nJoSqG7AuMAISPLzWBJIUFo-DRFBbamw32~FNxee8JB4v04d0-oYGafnODTfHeJ1o0qCSq6n829a-Sf1NlZRN9wY98PIF-oKu1d0~prcmgaKcxA3keYgfwTf3vL2s6RCgyBUd6ljT3jerSo7lL9XHRXR0P5W6v2QAgJyBlDM1NF7tF1J5IDPB7R~V1rmd6KP9M1eYIa0x~I1t2a588-UAKvyslbJ5992f8iRMD1Q5IGz2xXANHnjShmb4iSSTusQA3eBlj2TTHq493Tug58UDRgpL14XhzLbTyjVw__"
+      }
+    ],
+    "hierarchy": {
+      "35c432c1": {
+        "id": "35c432c1",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Image placeholder 1"
+      }
+    },
+    "idMapping": {
+      "238bd3e5": "35c432c1"
+    },
+    "size": {
+      "width": 446,
+      "height": 1523
+    },
+    "symbolInstances": {}
+  }
+}
